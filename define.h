@@ -1,0 +1,53 @@
+#ifndef DEFINE_H_INCLUDED
+#define DEFINE_H_INCLUDED
+
+#define WINDOW_WIDTH 69
+#define WINDOW_HEIGHT 24
+
+#define MAP_X 0
+#define MAP_Y 0
+#define MAP_WIDTH 69
+#define MAP_HEIGHT 17
+
+#define STATUS_X 0
+#define STATUS_Y 18
+#define STATUS_WIDTH 69
+#define STATUS_HEIGHT 5
+
+#define PLAYER_XPOS 5
+
+
+#define MAX_TURRETS MAP_HEIGHT-MAP_Y-1
+#define TURRET_MAX_LEVEL 3
+#define TURRET_MAX_BULLETS 200
+#define TURRET_XPOS 7
+#define TURRET_1_SPRITE 116 // t
+#define TURRET_2_SPRITE 84 // T
+#define TURRET_3_SPRITE 62 // >
+
+#define GOLD_SPAWN_TIME 10 // s
+
+#define MAX_BULLETS 1000
+#define BULLET_SPEED 50
+
+#define MAX_ZOMBIES 100
+#define ZOMBIE_MAX_LEVEL 3
+
+#define ZOMBIE_1_SPEED 300
+#define ZOMBIE_2_SPEED 200
+#define ZOMBIE_3_SPEED 100
+
+#define ZOMBIE_1_REWARD 60
+#define ZOMBIE_2_REWARD 70
+#define ZOMBIE_3_REWARD 100
+
+#define ZOMBIE_1_HP 200
+#define ZOMBIE_2_HP 300
+#define ZOMBIE_3_HP 400
+
+#define ZOMBIE_1_SPRITE 122 // t
+#define ZOMBIE_2_SPRITE 90 // T
+#define ZOMBIE_3_SPRITE 75 // >
+
+
+#endif // DEFINE_H_INCLUDED

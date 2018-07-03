@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1480013262 source:d:\codeblocks\ascii_vs_zombies\main.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	"define.h"
+	"global.h"
+	"init.h"
+	"inputHandler.h"
+	"update.h"
+	"create.h"
+	"draw.h"
+
+1479950034 d:\codeblocks\ascii_vs_zombies\console.h
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+
+1480013436 d:\codeblocks\ascii_vs_zombies\define.h
+
+1480013257 d:\codeblocks\ascii_vs_zombies\global.h
+
+1480011129 d:\codeblocks\ascii_vs_zombies\init.h
+
+1480012749 d:\codeblocks\ascii_vs_zombies\draw.h
+
+1480010551 d:\codeblocks\ascii_vs_zombies\inputhandler.h
+
+1480008540 d:\codeblocks\ascii_vs_zombies\system.h
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+	<time.h>
+
+1480014174 d:\codeblocks\ascii_vs_zombies\update.h
+
+1480014467 d:\codeblocks\ascii_vs_zombies\create.h
+
+1480080761 source:d:\ascii_vs_zombies\main.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	"define.h"
+	"global.h"
+	"init.h"
+	"inputHandler.h"
+	"update.h"
+	"create.h"
+	"draw.h"
+
+1480008542 d:\ascii_vs_zombies\system.h
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+	<time.h>
+
+1480080629 d:\ascii_vs_zombies\define.h
+
+1480080655 d:\ascii_vs_zombies\global.h
+
+1480079512 d:\ascii_vs_zombies\init.h
+
+1480010552 d:\ascii_vs_zombies\inputhandler.h
+
+1480079774 d:\ascii_vs_zombies\update.h
+
+1480080933 d:\ascii_vs_zombies\create.h
+
+1480078492 d:\ascii_vs_zombies\draw.h
+
+1480080154 source:f:\ascii_vs_zombies\main.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	"define.h"
+	"global.h"
+	"init.h"
+	"inputHandler.h"
+	"update.h"
+	"create.h"
+	"draw.h"
+
+1480008542 f:\ascii_vs_zombies\system.h
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+	<time.h>
+
+1480080148 f:\ascii_vs_zombies\define.h
+
+1480079986 f:\ascii_vs_zombies\global.h
+
+1480079512 f:\ascii_vs_zombies\init.h
+
+1480010552 f:\ascii_vs_zombies\inputhandler.h
+
+1480079774 f:\ascii_vs_zombies\update.h
+
+1480079160 f:\ascii_vs_zombies\create.h
+
+1480078492 f:\ascii_vs_zombies\draw.h
+
