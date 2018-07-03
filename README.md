@@ -5,6 +5,5 @@
 
 ## Controls:
 
-W / S -> Move
-
-Space -> Plant or Upgrade Turret 
+* W / S -> Move
+* Space -> Plant or Upgrade Turret 
